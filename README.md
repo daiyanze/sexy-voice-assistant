@@ -1,29 +1,8 @@
-# sexy-voice-assistant
+# Sexy Voice Assistant
+A voice assistant made with Web Speech APIS. Not sexy at all!
 
-## Project setup
-```
-yarn install
-```
+My article is here:
+https://pitayan.com/posts/voice-assistant/
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Demo
+https://daiyanze.com/sexy-voice-assistant/
